@@ -1,0 +1,8 @@
+Flask
+Flask-CORS
+SQLAlchemy
+pandas
+geopandas
+shapely
+haversine
+psycopg2-binary

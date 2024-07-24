@@ -1,0 +1,7 @@
+DB_USER = 'postgres'
+#DB_PASSWORD = 'pg_initpwd'
+DB_PASSWORD = 'huangl'
+#DB_HOST = '10.7.23.16'
+DB_HOST = 'localhost'
+DB_PORT = '5432'
+DB_NAME = 'sz-sws'
